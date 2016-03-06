@@ -1,0 +1,28 @@
+name: Maurice Stevens
+favicon: null
+layout_spectrum: 0.33247711695730686
+typography_spectrum: 0.3933069601189345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7774983262643218
+  lightness: 0.3002451180946082
+  saturation: 0.35491160955280066
+  rhythmicContrast: 0.24770199577324092
+purpose: []
